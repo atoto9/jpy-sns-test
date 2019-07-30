@@ -1,0 +1,6 @@
+project/project
+project/target
+target
+out
+src/main/scala/config
+.idea
